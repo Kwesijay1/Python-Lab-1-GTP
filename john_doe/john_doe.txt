@@ -1,0 +1,2 @@
+& c:/Users/rocka/Desktop/PP/Basics/labwork101/Scripts/python.exe c:/Users/rocka/Desktop/PP/Basics/labwork101/Gideon_Adjei.py
+Last modified on: 2025-04-07 10:45:52
