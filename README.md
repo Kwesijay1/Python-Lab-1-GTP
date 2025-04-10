@@ -28,16 +28,16 @@ cd python-file-handler
 Gideon_Adjei.py
 
 ## Concepts Covered
-File I/O operations (open, write, read)
-HTTP requests using requests.get()
-Creating directories using os.makedirs()
-Managing file paths with os.path.join()
+- File I/O operations (open, write, read)
+- HTTP requests using requests.get()
+- Creating directories using os.makedirs()
+- Managing file paths with os.path.join()
 
 ## Use Cases
-Learn basic file operations in Python
-Understand how to work with URLs and download content
-Practice creating and managing folders programmatically
-Expand it further to download and save images, PDFs, or other file types
+- Learn basic file operations in Python
+- Understand how to work with URLs and download content
+- Practice creating and managing folders programmatically
+- Expand it further to download and save images, PDFs, or other file types
 
 
 
