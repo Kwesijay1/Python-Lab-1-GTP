@@ -21,8 +21,8 @@ pip install requests
 
 ## How to Use
 Clone this repository:
-git clone https://github.com/Kwesijay1/Python-Lab-1-GTP
-cd python-file-handler
+- git clone https://github.com/Kwesijay1/Python-Lab-1-GTP
+- cd python-file-handler
 
 ## Run the script:
 Gideon_Adjei.py
